@@ -1,0 +1,12 @@
+c:\users\larry\source\repos\COMP2614Assign03\COMP2614Assign03\bin\Debug\COMP2614Assign03.exe
+c:\users\larry\source\repos\COMP2614Assign03\COMP2614Assign03\bin\Debug\COMP2614Assign03.pdb
+c:\users\larry\source\repos\COMP2614Assign03\COMP2614Assign03\obj\Debug\COMP2614Assign03.csproj.CoreCompileInputs.cache
+c:\users\larry\source\repos\COMP2614Assign03\COMP2614Assign03\obj\Debug\COMP2614Assign03.exe
+c:\users\larry\source\repos\COMP2614Assign03\COMP2614Assign03\obj\Debug\COMP2614Assign03.pdb
+C:\Users\larry\source\repos\COMP2614Assign03\COMP2614Assign03\obj\Debug\COMP2614Assign03.csprojResolveAssemblyReference.cache
+C:\Users\larry\Desktop\BCIT\Comp2614\COMP2614Assign03\COMP2614Assign03\COMP2614Assign03\bin\Debug\COMP2614Assign03.exe
+C:\Users\larry\Desktop\BCIT\Comp2614\COMP2614Assign03\COMP2614Assign03\COMP2614Assign03\bin\Debug\COMP2614Assign03.pdb
+C:\Users\larry\Desktop\BCIT\Comp2614\COMP2614Assign03\COMP2614Assign03\COMP2614Assign03\obj\Debug\COMP2614Assign03.csprojAssemblyReference.cache
+C:\Users\larry\Desktop\BCIT\Comp2614\COMP2614Assign03\COMP2614Assign03\COMP2614Assign03\obj\Debug\COMP2614Assign03.csproj.CoreCompileInputs.cache
+C:\Users\larry\Desktop\BCIT\Comp2614\COMP2614Assign03\COMP2614Assign03\COMP2614Assign03\obj\Debug\COMP2614Assign03.exe
+C:\Users\larry\Desktop\BCIT\Comp2614\COMP2614Assign03\COMP2614Assign03\COMP2614Assign03\obj\Debug\COMP2614Assign03.pdb
