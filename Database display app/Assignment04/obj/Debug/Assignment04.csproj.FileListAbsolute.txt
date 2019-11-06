@@ -1,0 +1,14 @@
+c:\users\larry\source\repos\Assignment04\Assignment04\bin\Debug\Assignment04.exe.config
+c:\users\larry\source\repos\Assignment04\Assignment04\bin\Debug\Assignment04.exe
+c:\users\larry\source\repos\Assignment04\Assignment04\bin\Debug\Assignment04.pdb
+c:\users\larry\source\repos\Assignment04\Assignment04\obj\Debug\Assignment04.csprojResolveAssemblyReference.cache
+c:\users\larry\source\repos\Assignment04\Assignment04\obj\Debug\Assignment04.csproj.CoreCompileInputs.cache
+c:\users\larry\source\repos\Assignment04\Assignment04\obj\Debug\Assignment04.exe
+c:\users\larry\source\repos\Assignment04\Assignment04\obj\Debug\Assignment04.pdb
+C:\Users\larry\Desktop\BCIT\Comp2614\Assignment04\Assignment04\bin\Debug\Assignment04.exe.config
+C:\Users\larry\Desktop\BCIT\Comp2614\Assignment04\Assignment04\bin\Debug\Assignment04.exe
+C:\Users\larry\Desktop\BCIT\Comp2614\Assignment04\Assignment04\bin\Debug\Assignment04.pdb
+C:\Users\larry\Desktop\BCIT\Comp2614\Assignment04\Assignment04\obj\Debug\Assignment04.csprojAssemblyReference.cache
+C:\Users\larry\Desktop\BCIT\Comp2614\Assignment04\Assignment04\obj\Debug\Assignment04.csproj.CoreCompileInputs.cache
+C:\Users\larry\Desktop\BCIT\Comp2614\Assignment04\Assignment04\obj\Debug\Assignment04.exe
+C:\Users\larry\Desktop\BCIT\Comp2614\Assignment04\Assignment04\obj\Debug\Assignment04.pdb
