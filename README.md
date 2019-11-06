@@ -5,5 +5,5 @@ Database entry and display app and FileIO display app are the best examples of m
 I suggest starting with these but feel free to explore the other apps too.
 
 Directions:
-Download Repo, open .sln file in Visual studio, run in debugger.
+Download Repo,open folder of app you would like to examine, open .sln file in Visual studio, run in debugger.
 
