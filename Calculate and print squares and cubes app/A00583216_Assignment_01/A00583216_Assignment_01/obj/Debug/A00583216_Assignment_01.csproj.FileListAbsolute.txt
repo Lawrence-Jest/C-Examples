@@ -1,0 +1,12 @@
+C:\Users\larry\source\repos\A00583216_Assignment_01\A00583216_Assignment_01\bin\Debug\A00583216_Assignment_01.exe
+C:\Users\larry\source\repos\A00583216_Assignment_01\A00583216_Assignment_01\bin\Debug\A00583216_Assignment_01.pdb
+C:\Users\larry\source\repos\A00583216_Assignment_01\A00583216_Assignment_01\obj\Debug\A00583216_Assignment_01.csprojResolveAssemblyReference.cache
+C:\Users\larry\source\repos\A00583216_Assignment_01\A00583216_Assignment_01\obj\Debug\A00583216_Assignment_01.csproj.CoreCompileInputs.cache
+C:\Users\larry\source\repos\A00583216_Assignment_01\A00583216_Assignment_01\obj\Debug\A00583216_Assignment_01.exe
+C:\Users\larry\source\repos\A00583216_Assignment_01\A00583216_Assignment_01\obj\Debug\A00583216_Assignment_01.pdb
+C:\Users\larry\Desktop\BCIT\Comp2614\A00583216_Assignment_01\A00583216_Assignment_01\A00583216_Assignment_01\bin\Debug\A00583216_Assignment_01.exe
+C:\Users\larry\Desktop\BCIT\Comp2614\A00583216_Assignment_01\A00583216_Assignment_01\A00583216_Assignment_01\bin\Debug\A00583216_Assignment_01.pdb
+C:\Users\larry\Desktop\BCIT\Comp2614\A00583216_Assignment_01\A00583216_Assignment_01\A00583216_Assignment_01\obj\Debug\A00583216_Assignment_01.csprojAssemblyReference.cache
+C:\Users\larry\Desktop\BCIT\Comp2614\A00583216_Assignment_01\A00583216_Assignment_01\A00583216_Assignment_01\obj\Debug\A00583216_Assignment_01.csproj.CoreCompileInputs.cache
+C:\Users\larry\Desktop\BCIT\Comp2614\A00583216_Assignment_01\A00583216_Assignment_01\A00583216_Assignment_01\obj\Debug\A00583216_Assignment_01.exe
+C:\Users\larry\Desktop\BCIT\Comp2614\A00583216_Assignment_01\A00583216_Assignment_01\A00583216_Assignment_01\obj\Debug\A00583216_Assignment_01.pdb
