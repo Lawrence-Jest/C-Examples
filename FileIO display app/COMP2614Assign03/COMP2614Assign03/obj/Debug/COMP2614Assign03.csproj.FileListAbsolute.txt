@@ -10,3 +10,9 @@ C:\Users\larry\Desktop\BCIT\Comp2614\COMP2614Assign03\COMP2614Assign03\COMP2614A
 C:\Users\larry\Desktop\BCIT\Comp2614\COMP2614Assign03\COMP2614Assign03\COMP2614Assign03\obj\Debug\COMP2614Assign03.csproj.CoreCompileInputs.cache
 C:\Users\larry\Desktop\BCIT\Comp2614\COMP2614Assign03\COMP2614Assign03\COMP2614Assign03\obj\Debug\COMP2614Assign03.exe
 C:\Users\larry\Desktop\BCIT\Comp2614\COMP2614Assign03\COMP2614Assign03\COMP2614Assign03\obj\Debug\COMP2614Assign03.pdb
+C:\Users\larry\C_Sharp_Examples\FileIO display app\COMP2614Assign03\COMP2614Assign03\bin\Debug\COMP2614Assign03.exe
+C:\Users\larry\C_Sharp_Examples\FileIO display app\COMP2614Assign03\COMP2614Assign03\bin\Debug\COMP2614Assign03.pdb
+C:\Users\larry\C_Sharp_Examples\FileIO display app\COMP2614Assign03\COMP2614Assign03\obj\Debug\COMP2614Assign03.csprojAssemblyReference.cache
+C:\Users\larry\C_Sharp_Examples\FileIO display app\COMP2614Assign03\COMP2614Assign03\obj\Debug\COMP2614Assign03.csproj.CoreCompileInputs.cache
+C:\Users\larry\C_Sharp_Examples\FileIO display app\COMP2614Assign03\COMP2614Assign03\obj\Debug\COMP2614Assign03.exe
+C:\Users\larry\C_Sharp_Examples\FileIO display app\COMP2614Assign03\COMP2614Assign03\obj\Debug\COMP2614Assign03.pdb

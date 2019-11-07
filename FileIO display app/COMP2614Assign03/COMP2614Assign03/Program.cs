@@ -24,6 +24,7 @@ namespace COMP2614Assign03
 
 
             //get file name from user
+            Console.WriteLine("Enter filename to load (Invoicedata.txt for testing):");
             Console.WriteLine();
 
             userEnteredFileName = Console.ReadLine().Trim();//trim in case of 
