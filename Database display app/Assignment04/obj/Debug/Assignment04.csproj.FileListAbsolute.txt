@@ -12,3 +12,10 @@ C:\Users\larry\Desktop\BCIT\Comp2614\Assignment04\Assignment04\obj\Debug\Assignm
 C:\Users\larry\Desktop\BCIT\Comp2614\Assignment04\Assignment04\obj\Debug\Assignment04.csproj.CoreCompileInputs.cache
 C:\Users\larry\Desktop\BCIT\Comp2614\Assignment04\Assignment04\obj\Debug\Assignment04.exe
 C:\Users\larry\Desktop\BCIT\Comp2614\Assignment04\Assignment04\obj\Debug\Assignment04.pdb
+C:\Users\larry\C_Sharp_Examples\Database display app\Assignment04\bin\Debug\Assignment04.exe.config
+C:\Users\larry\C_Sharp_Examples\Database display app\Assignment04\bin\Debug\Assignment04.exe
+C:\Users\larry\C_Sharp_Examples\Database display app\Assignment04\bin\Debug\Assignment04.pdb
+C:\Users\larry\C_Sharp_Examples\Database display app\Assignment04\obj\Debug\Assignment04.csprojAssemblyReference.cache
+C:\Users\larry\C_Sharp_Examples\Database display app\Assignment04\obj\Debug\Assignment04.csproj.CoreCompileInputs.cache
+C:\Users\larry\C_Sharp_Examples\Database display app\Assignment04\obj\Debug\Assignment04.exe
+C:\Users\larry\C_Sharp_Examples\Database display app\Assignment04\obj\Debug\Assignment04.pdb

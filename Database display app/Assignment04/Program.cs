@@ -45,7 +45,14 @@ namespace Starter
             // Display list of customer objects
             display.displayCustomerObjects(customerList);
 
+            Console.WriteLine();
+            Console.WriteLine();
+
+            Console.WriteLine("Press return to exit.");
+
             Console.ReadLine();
+
+            
         }
     }
 }
