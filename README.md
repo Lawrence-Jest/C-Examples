@@ -43,4 +43,4 @@ Lawrence Jest
 ## Authors
 
 * **Lawrence Jest** - *Initial work* - 
-
+* **Pat McGee** - *Instructor, provided code to test run apps or use as a starting point* - 
